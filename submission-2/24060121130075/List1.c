@@ -1,6 +1,6 @@
 /*********************************************/
 /* Program   : list1.c                       */
-/* Deskripsi : file HEADER modul list        */
+/* Deskripsi : file body modul list        */
 /* NIM/Nama  : 24060121130075/Muhamad Ridwan Ash'shidqi*/
 /* Tanggal   : 30 oktober 2022
 /*********************************************/
